@@ -1,0 +1,21 @@
+arquivo level mexe com os inimigos e a velocidade
+path: /home/thais/sandbox/game_nave/static/js/modules/ai/level.js
+
+PRINCIPAL
+e o update dele é em
+path: /home/thais/sandbox/game_nave/static/js/modules/world.js
+
+screen.js
+edita a pontuação final e todas os textos impressos na tela
+
+
+weapon.js
+edita o que ocorre quando se atira, linha 78
+
+powerups.js
+edita quando pega pedra, linha 42
+
+
+nuvens
+no arquivo
+helpers/stars.js
